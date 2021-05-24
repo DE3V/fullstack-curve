@@ -1,1 +1,1 @@
-print("fuc the world and say hello")
+print("fuck the world and say hello and laugh")
