@@ -33,7 +33,6 @@ def monte_carlo(n):
 
  result *= (float(ins) / n) * 4
  
- print(ins)
  return result
 
 
